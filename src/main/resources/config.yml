@@ -1,0 +1,5 @@
+punish:
+  message-in-game: %player% foi banido do servidor por %motivo% por %tempo% por %staff%'
+  discord-use: true
+    message: '%player% foi banido do servidor por %motivo% por %tempo% por %staff%'
+    channel-id: 'channel-id'
